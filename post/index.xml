@@ -10,14 +10,71 @@
     <atom:link href="https://castaways.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>firstpost</title>
-      <link>https://castaways.github.io/post/firstpost/</link>
+      <title>Message in a bottle</title>
+      <link>https://castaways.github.io/post/message-in-a-bottle/</link>
       <pubDate>Thu, 23 Mar 2017 19:17:52 +0000</pubDate>
       
-      <guid>https://castaways.github.io/post/firstpost/</guid>
+      <guid>https://castaways.github.io/post/message-in-a-bottle/</guid>
       <description>
 
-&lt;h1 id=&#34;first-day&#34;&gt;First day&lt;/h1&gt;
+&lt;p&gt;Entrepreneurship is like being a castaway on a remote island like Robinson Crusoe or Bear Grylls where you are threatened to be eaten by Komodo varans, tribes and mosquitoes or wiped out by Volcano eruptions.  The first thing you have to do is find water, shelter and make a fire, then start networking with the local tribes.&lt;/p&gt;
+
+&lt;h2 id=&#34;message-in-a-bottle&#34;&gt;Message in a Bottle&lt;/h2&gt;
+
+&lt;p&gt;I sent away a message in a bottle, but it was not very practical because I only had one bottle and this morning when I walked around the island it had floated back to the shore, so I set out to find a new method and have experimented with smoke signals.&lt;/p&gt;
+
+&lt;p&gt;In a real business situation, this could mean that the newsletter service you have chosen has UX issues, for example, TinyLetter had lots of that, and it did not work on a big 1920 x 1200 display. The code for the letters also looked horrible. I tried Mailjet, and a solution from Estonia both had issues with the email ending up in the spam folder and long waiting time after registration to verify my account. Then I got the suggestion to check out Paloma.se. It worked without any issues, and no email ended up in the spam filter.&lt;/p&gt;
+
+&lt;p&gt;Except for getting a special assignment from the nearest tribes head honcho and a small Volcano break out, I also managed to set up a big sign called Castaway.gq.&lt;/p&gt;
+
+&lt;h2 id=&#34;creating-castaway-gq-with-ssl-hosting-cms-and-image-management&#34;&gt;Creating castaway.gq with SSL, hosting, CMS and image management&lt;/h2&gt;
+
+&lt;p&gt;At &lt;a href=&#34;https://freenom.com&#34;&gt;freenom.com&lt;/a&gt; it is easy to get your domain name for free.
+Go to Management Tools and select Nameservers. Select Use custom name servers and enter:&lt;/p&gt;
+
+&lt;p&gt;PAM.NS.CLOUDFLARE.COM&lt;/p&gt;
+
+&lt;p&gt;THEO.NS.CLOUDFLARE.COM&lt;/p&gt;
+
+&lt;p&gt;remove all the other.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/appernetic/v1490304494/enuujml5qo1kjo6xp1se&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Go to &lt;a href=&#34;https://cloudflare.com&#34;&gt;cloudflare.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Set up a free account if you don’t have one, then add your new domain by selecting +Add Site.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/appernetic/v1490304584/jsz0u2en8k5yzbgsj33l&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Make an A record for www that points to 192.30.252.153 and one to 192.30.252.154&lt;/p&gt;
+
+&lt;p&gt;Create a CNAME record with the name of the domain and the alias with the subdomain (www.castaway.gq) to have the domain point to www:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/appernetic/v1490304679/fbhk7ojcuijuc3pesx0q&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now set up your GitHub account:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/appernetic/v1490304735/hidmmwwviejywbgtdeh8&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Verify your email address.&lt;/p&gt;
+
+&lt;p&gt;Go to Appernetic.io and log in with your Github account and Authorize application.&lt;/p&gt;
+
+&lt;p&gt;Now you can setup your static website project&lt;/p&gt;
+
+&lt;p&gt;I selected the Hugo Future imperfect theme: &lt;a href=&#34;https://github.com/jpescador/hugo-future-imperfect&#34;&gt;https://github.com/jpescador/hugo-future-imperfect&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It is a bit imperfect, but as it is open source, it is easy to fix issues. Remember to also give a shout out to the theme developer, so he is aware of the imperfections and if you like the theme, give him a PR.&lt;/p&gt;
+
+&lt;p&gt;When you are ready with your project sync it with GitHub and point your domain to GitHub by creating a CNAME file in the appernetic-hugo-project root folder, then sync a last time and publish the site.&lt;/p&gt;
+
+&lt;p&gt;Now all should be setup, and you only have to wait for 24 to 48 hours to have the domain name propagate on the Internet.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/y1q4WD4mNKA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
 </description>
     </item>
     
