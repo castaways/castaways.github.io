@@ -41,7 +41,8 @@
       <guid>https://www.castaway.gq/post/message-in-a-bottle/</guid>
       <description>
 
-&lt;p&gt;Entrepreneurship is like being a castaway on a remote island like Robinson Crusoe or Bear Grylls where you are threatened to be eaten by Komodo varans, tribes and mosquitoes or wiped out by Volcano eruptions.  The first thing you have to do is find water, shelter and make a fire, then start networking with the local tribes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/appernetic/v1490306178/n7vvyz5g9aouoys2pbo1&#34; alt=&#34;enter image description here&#34; /&gt;
+Entrepreneurship is like being a castaway on a remote island like Robinson Crusoe or Bear Grylls where you are threatened to be eaten by Komodo varans, tribes and mosquitoes or wiped out by Volcano eruptions.  The first thing you have to do is find water, shelter and make a fire, then start networking with the local tribes.&lt;/p&gt;
 
 &lt;h2 id=&#34;message-in-a-bottle&#34;&gt;Message in a Bottle&lt;/h2&gt;
 
@@ -63,6 +64,8 @@ Go to Management Tools and select Nameservers. Select Use custom name servers an
 &lt;p&gt;remove all the other.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/appernetic/v1490304494/enuujml5qo1kjo6xp1se&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Check that it has propagated around Internet here: &lt;a href=&#34;https://www.whatsmydns.net&#34;&gt;https://www.whatsmydns.net&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Go to &lt;a href=&#34;https://cloudflare.com&#34;&gt;cloudflare.com&lt;/a&gt;&lt;/p&gt;
 
