@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MESSAGE FROM A CASTAWAY</title>
+    <link>https://castaways.github.io/index.xml</link>
+    <description>Recent content on MESSAGE FROM A CASTAWAY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2017 19:18:50 +0000</lastBuildDate>
+    <atom:link href="https://castaways.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://castaways.github.io/about/</link>
+      <pubDate>Thu, 23 Mar 2017 19:18:50 +0000</pubDate>
+      
+      <guid>https://castaways.github.io/about/</guid>
+      <description>&lt;p&gt;This is where I share my entrepreneurial journey with all its ups and downs.&lt;/p&gt;
+
+&lt;p&gt;Entrepreneurship is like being a castaway on a remote island like Robinson Crusoe or Bear Grylls where you are threatened to be eaten by Komodo varans, tribes and mosquitoes or wiped out by Volcano eruptions. The first thing you have to do is find water, shelter and make a fire, then start networking with the local tribes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>home</title>
+      <link>https://castaways.github.io/home/</link>
+      <pubDate>Thu, 23 Mar 2017 19:18:13 +0000</pubDate>
+      
+      <guid>https://castaways.github.io/home/</guid>
+      <description>
+
+&lt;h1 id=&#34;home&#34;&gt;Home&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>firstpost</title>
+      <link>https://castaways.github.io/post/firstpost/</link>
+      <pubDate>Thu, 23 Mar 2017 19:17:52 +0000</pubDate>
+      
+      <guid>https://castaways.github.io/post/firstpost/</guid>
+      <description>
+
+&lt;h1 id=&#34;first-day&#34;&gt;First day&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
